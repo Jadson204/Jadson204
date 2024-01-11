@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jadson
 - 🌱 Estudando HTML, CSS e JavaScript na <strong>B7Web</strong>
-- 🌱 Estudando Java e Spring Boot na JDEV Treinamentos
+- 🌱 Estudando Java e Spring Boot na <strong>JDEV Treinamentos</strong>
 - 💬 Contate-me no email: jadsonhenrique2004@gmail.com
 - 📫 Cursando Análise e Desenvolvimento de Sistemas
 
